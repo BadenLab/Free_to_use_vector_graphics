@@ -1,6 +1,6 @@
 # Free_to_use_vector_graphics
 Collection of lab-made vector graphics CC BY 4.0
 
-![](Retinas and Animals_collection.png)
+![](Retinas_and_Animals_collection.png)
 
 
